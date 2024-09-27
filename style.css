@@ -142,3 +142,19 @@ input{
         font-weight: bolder;
     }
 }
+
+.bot3{
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    margin-left: 47.5%;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.imgback {
+    width: 30px;
+    height: 30px;
+    margin-left: -62px;
+    padding-top: 4px;
+    cursor: pointer;
+}
